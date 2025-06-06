@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiArrowDown01",
+      "LiActivity",
+      "LiActivitySquare",
       "LiAtom",
-      "LiAlbum",
-      "LiAccessibility",
-      "LiAntenna",
-      "LiAlignHorizontalDistributeCenter"
+      "LiAlbum"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -83,7 +83,10 @@
     "iconColor": "#f00f0f"
   },
   "SQL/Индексы.md": "LiAlarmSmoke",
-  "SQL/ИЗОЛЯЦИЯ.md": "LiAlignHorizontalJustifyStart",
+  "SQL/ИЗОЛЯЦИЯ.md": {
+    "iconName": "LiActivity",
+    "iconColor": "#ff0000"
+  },
   "SQL/АГРЕГИРУЮЩИЕ ФУНКЦИИ.md": "LiAlignHorizontalSpaceAround",
   "SQL/MVCC.md": "LiAlignLeft",
   "GO/Аллокация памяти в го.md": {
@@ -113,5 +116,13 @@
   "Unix": {
     "iconName": "LiAtom",
     "iconColor": "#ffd500"
+  },
+  "SQL/Блокировки.md": {
+    "iconName": "LiActivitySquare",
+    "iconColor": "#f50000"
+  },
+  "SQL/B-tree index.md": {
+    "iconName": "LiArrowDown01",
+    "iconColor": "#ff0000"
   }
 }
