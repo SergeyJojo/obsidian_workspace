@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "7d391471c50780c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc8be3a1fc548c70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a374f97346b7b1e4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "💯 Coding/Python/Курс для начинающих/13. Списки.canvas",
+                "viewState": {
+                  "x": 1990,
+                  "y": 1361.5,
+                  "zoom": -1.3029316834643896
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "13. Списки"
+            }
+          },
+          {
+            "id": "2c5377ba81cb6bfb",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "💯 Coding/Java/09. Основные функции строк.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "09. Основные функции строк"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f04e3c03c1db788c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddc3dacb3c5cf22c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04ac0127c92f47a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7ba97c5cea663369",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1ecdd415102d6218",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 427.5
+  },
+  "right": {
+    "id": "49f600ee51d03e07",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1095bf3d87bf141",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "131c2f16171309e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🌐 Web, protocols/1. HTTP + HTTPS/📚 Полезные ссылки на самостоятельное изучение.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 📚 Полезные ссылки на самостоятельное изучение"
+            }
+          },
+          {
+            "id": "d329173666464800",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🌐 Web, protocols/1. HTTP + HTTPS/📚 Полезные ссылки на самостоятельное изучение.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 📚 Полезные ссылки на самостоятельное изучение"
+            }
+          },
+          {
+            "id": "f9c8fdaa1416fbef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8c0e4d9c38f3bd53",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🌐 Web, protocols/1. HTTP + HTTPS/📚 Полезные ссылки на самостоятельное изучение.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 📚 Полезные ссылки на самостоятельное изучение"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2c5377ba81cb6bfb",
+  "lastOpenFiles": [
+    "💯 Coding/Java/08. Массивы.canvas",
+    "💯 Coding/Java/09. Основные функции строк.canvas",
+    "💯 Coding/Java/09. Двумерные массивы.canvas",
+    "💯 Coding/Java/07. Цикл For.canvas",
+    "💯 Coding/Java/01. Знакомство с языком.canvas",
+    "💯 Coding/REFACTORING - Java/01. Знакомство с языком.canvas",
+    "💯 Coding/REFACTORING - Java/02. Комментарии.canvas",
+    "README.md",
+    "🧩 QA/Материал на самостоятельное изучение/Бесплатные курсы по тестированию.md",
+    "🧩 QA/Материал на самостоятельное изучение/Гайд по тестированию API.pdf",
+    "💯 Coding/Java/02. Основные типы данных.canvas",
+    "💯 Coding/Java/03. Условный оператор.canvas",
+    "💯 Coding/Java/04. Тернарный оператор.canvas",
+    "💯 Coding/Java/05. Явное приведение типов.canvas",
+    "💯 Coding/Java",
+    "🧩 QA/Курсы/Основы тестирования, краш-курс.md",
+    "🧩 QA/Материал на самостоятельное изучение",
+    "test.md",
+    "🌐 Web, protocols/1. HTTP + HTTPS/📚 Полезные ссылки на самостоятельное изучение.md",
+    "💯 Coding/REFACTORING - Java",
+    "Cache/Pasted image 20250506220933.png",
+    "Cache/Pasted image 20250506215604.png",
+    "⚙️ DevOps/Kubernetes",
+    "⚙️ DevOps/Docker",
+    "Cache/Pasted image 20250428001847.png",
+    "NOT EVEN SPECIALIST.md",
+    "Cache/Pasted image 20250427112733.png",
+    "🌐 Web, protocols/1. HTTP + HTTPS",
+    "Cache/Pasted image 20250426002029.png",
+    "Cache/Pasted image 20250426001636.png",
+    "Cache/Pasted image 20250426001619.png",
+    "Cache/Pasted image 20250426000916.png",
+    "Cache/Pasted image 20250425235934.png",
+    "Cache/Pasted image 20250425235837.png",
+    "🌐 Web, protocols/refactoring"
+  ]
+}

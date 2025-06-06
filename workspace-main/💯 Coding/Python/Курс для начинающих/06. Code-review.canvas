@@ -1,0 +1,233 @@
+{
+  "edges": [
+    {
+      "fromNode": "56f2fc2ae88ca46c",
+      "fromSide": "right",
+      "id": "53bc57167a9f35b9",
+      "toNode": "c296f7f39c29b61f",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c296f7f39c29b61f",
+      "fromSide": "right",
+      "id": "0ab92dca331362ec",
+      "toNode": "7edac01002934f41",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7edac01002934f41",
+      "fromSide": "right",
+      "id": "b37a2781ae9a0b0a",
+      "toNode": "c48087289f5e9531",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7edac01002934f41",
+      "fromSide": "right",
+      "id": "07d1e465dae58916",
+      "toNode": "8ddab6ecd5a1e9f0",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7edac01002934f41",
+      "fromSide": "right",
+      "id": "07f0b3101624c5e6",
+      "toNode": "73364740c6ce4ede",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c48087289f5e9531",
+      "fromSide": "top",
+      "id": "f49d7b45cd7283e1",
+      "toNode": "85d1dcc14dc24fb6",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "85d1dcc14dc24fb6",
+      "fromSide": "right",
+      "id": "184843a381588663",
+      "toNode": "60d1acdbadc81701",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "85d1dcc14dc24fb6",
+      "fromSide": "right",
+      "id": "ca421f5e78003b1f",
+      "toNode": "4eb17f7df22a3676",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "85d1dcc14dc24fb6",
+      "fromSide": "right",
+      "id": "844c310492a095f7",
+      "toNode": "c01e5f43e6e028c8",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "85d1dcc14dc24fb6",
+      "fromSide": "right",
+      "id": "1a7466d62cbb622c",
+      "toNode": "b50b476ce9d68e33",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "85d1dcc14dc24fb6",
+      "fromSide": "right",
+      "id": "887b567e19b6a564",
+      "toNode": "9ee7abc6071bed0c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "85d1dcc14dc24fb6",
+      "fromSide": "right",
+      "id": "d672064c354c8500",
+      "toNode": "eed4f14e61b05e6c",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 237,
+      "id": "c296f7f39c29b61f",
+      "styleAttributes": {
+      },
+      "text": "Проверка исходного кода программы с целью обнаружения и исправления ошибок и неточностей, которые остались незамеченными при начальной разработке",
+      "type": "text",
+      "width": 250,
+      "x": 195,
+      "y": -29
+    },
+    {
+      "height": 60,
+      "id": "56f2fc2ae88ca46c",
+      "styleAttributes": {
+      },
+      "text": "Ревью-кода (Code-review)",
+      "type": "text",
+      "width": 250,
+      "x": -120,
+      "y": 60
+    },
+    {
+      "height": 60,
+      "id": "7edac01002934f41",
+      "styleAttributes": {
+      },
+      "text": "В процессе могут быть исправлены",
+      "type": "text",
+      "width": 250,
+      "x": 521,
+      "y": 60
+    },
+    {
+      "height": 60,
+      "id": "c48087289f5e9531",
+      "styleAttributes": {
+      },
+      "text": "Фактические ошибки",
+      "type": "text",
+      "width": 250,
+      "x": 820,
+      "y": -19
+    },
+    {
+      "height": 60,
+      "id": "8ddab6ecd5a1e9f0",
+      "styleAttributes": {
+      },
+      "text": "Производительность кода",
+      "type": "text",
+      "width": 250,
+      "x": 820,
+      "y": 60
+    },
+    {
+      "height": 87,
+      "id": "73364740c6ce4ede",
+      "styleAttributes": {
+      },
+      "text": "Читабельность кода и ошибки форматирования кода",
+      "type": "text",
+      "width": 250,
+      "x": 820,
+      "y": 142
+    },
+    {
+      "height": 87,
+      "id": "85d1dcc14dc24fb6",
+      "styleAttributes": {
+      },
+      "text": "Среди фактических ошибок часто встречаются",
+      "type": "text",
+      "width": 250,
+      "x": 820,
+      "y": -280
+    },
+    {
+      "height": 87,
+      "id": "60d1acdbadc81701",
+      "styleAttributes": {
+      },
+      "text": "Отсутствие начальной инициализации переменной",
+      "type": "text",
+      "width": 250,
+      "x": 1320,
+      "y": -493
+    },
+    {
+      "height": 117,
+      "id": "4eb17f7df22a3676",
+      "styleAttributes": {
+      },
+      "text": "Неправильная начальная инициализация переменной",
+      "type": "text",
+      "width": 250,
+      "x": 1320,
+      "y": -396
+    },
+    {
+      "height": 60,
+      "id": "c01e5f43e6e028c8",
+      "styleAttributes": {
+      },
+      "text": "Отсутствие отступа для блока кода",
+      "type": "text",
+      "width": 250,
+      "x": 1320,
+      "y": -266
+    },
+    {
+      "height": 117,
+      "id": "b50b476ce9d68e33",
+      "styleAttributes": {
+      },
+      "text": "Неправильные числовые граничные значения, например при использовании `range()`",
+      "type": "text",
+      "width": 250,
+      "x": 1320,
+      "y": -192
+    },
+    {
+      "height": 60,
+      "id": "eed4f14e61b05e6c",
+      "styleAttributes": {
+      },
+      "text": "Путаница логических операций",
+      "type": "text",
+      "width": 250,
+      "x": 1320,
+      "y": 83
+    },
+    {
+      "height": 117,
+      "id": "9ee7abc6071bed0c",
+      "styleAttributes": {
+      },
+      "text": "Неправильные граничные сравнения (путаница с операторами сравнения)",
+      "type": "text",
+      "width": 250,
+      "x": 1320,
+      "y": -56
+    }
+  ]
+}

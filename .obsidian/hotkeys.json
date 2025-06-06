@@ -1,0 +1,11 @@
+{
+  "local-backup:run-local-backup": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ]
+}

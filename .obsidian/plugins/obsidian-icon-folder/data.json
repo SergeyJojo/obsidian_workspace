@@ -1,0 +1,117 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiAtom",
+      "LiAlbum",
+      "LiAccessibility",
+      "LiAntenna",
+      "LiAlignHorizontalDistributeCenter"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Kafka": {
+    "iconName": "LiArrowLeftRight",
+    "iconColor": "#145fd7"
+  },
+  "Redis": {
+    "iconName": "LiAirVent",
+    "iconColor": "#16d03b"
+  },
+  "SQL": {
+    "iconName": "LiAlignCenter",
+    "iconColor": "#c3db0a"
+  },
+  "System design": {
+    "iconName": "LiAlbum",
+    "iconColor": "#1b8381"
+  },
+  "GO": {
+    "iconName": "LiAsteriskSquare",
+    "iconColor": "#4351b6"
+  },
+  "BD": {
+    "iconName": "LiAtom",
+    "iconColor": "#511f5b"
+  },
+  "Мониторинг": {
+    "iconName": "LiAward",
+    "iconColor": "#e660d4"
+  },
+  "Docker": {
+    "iconName": "LiAlignCenter",
+    "iconColor": "#f24040"
+  },
+  "GO/maps": {
+    "iconName": "LiAudioLines",
+    "iconColor": "#a51ab7"
+  },
+  "GO/Slice": {
+    "iconName": "LiBackpack",
+    "iconColor": "#dc5309"
+  },
+  "GO/Многопоточка": {
+    "iconName": "LiArrowUp10",
+    "iconColor": "#2ac02d"
+  },
+  "GO/Многопоточка/errGroup.md": {
+    "iconName": "LiAlignHorizontalDistributeCenter",
+    "iconColor": "#f00f0f"
+  },
+  "SQL/Индексы.md": "LiAlarmSmoke",
+  "SQL/ИЗОЛЯЦИЯ.md": "LiAlignHorizontalJustifyStart",
+  "SQL/АГРЕГИРУЮЩИЕ ФУНКЦИИ.md": "LiAlignHorizontalSpaceAround",
+  "SQL/MVCC.md": "LiAlignLeft",
+  "GO/Аллокация памяти в го.md": {
+    "iconName": "LiArrowBigUp",
+    "iconColor": "#1da003"
+  },
+  "SQL/Работа с датами.md": {
+    "iconName": "LiArrowRightLeft",
+    "iconColor": "#01cb29"
+  },
+  "SQL/SQL JOIN.md": {
+    "iconName": "LiAlignHorizontalDistributeCenter",
+    "iconColor": "#057621"
+  },
+  "Сети": {
+    "iconName": "LiAntenna",
+    "iconColor": "#f20707"
+  },
+  "Собеседования вопросы": {
+    "iconName": "LiAccessibility",
+    "iconColor": "#ff0000"
+  },
+  "Algs": {
+    "iconName": "LiAlbum",
+    "iconColor": "#0bfed5"
+  },
+  "Unix": {
+    "iconName": "LiAtom",
+    "iconColor": "#ffd500"
+  }
+}
