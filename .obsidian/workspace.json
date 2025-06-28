@@ -4,231 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "12fe2c85e578cd9c",
+        "id": "021ae85008fe3853",
         "type": "tabs",
         "children": [
           {
-            "id": "7233d6d77210a829",
+            "id": "c332aff87356a0d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Неравенство в индексе.md",
+                "file": "Быстрое повторение/Задачка озон на урлы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Неравенство в индексе"
+              "title": "Задачка озон на урлы"
             }
           },
           {
-            "id": "10d48b73ecadf9d3",
+            "id": "7baa00942161fb78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Кубер, хелм.md",
+                "file": "Пример проекта как в бигтех.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Кубер, хелм"
+              "title": "Пример проекта как в бигтех"
             }
           },
           {
-            "id": "775adc305b20dc6e",
+            "id": "2d84bf6b798ec27f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "легенда.md",
+                "file": "SQL/Create table guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "легенда"
-            }
-          },
-          {
-            "id": "8649fa239072ac6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Panice and Recover.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Panice and Recover"
-            }
-          },
-          {
-            "id": "255bfd26ab174ab5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arena го.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arena го"
-            }
-          },
-          {
-            "id": "20da370e039428d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unix/Карта Линукса.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Карта Линукса"
-            }
-          },
-          {
-            "id": "da22d6ed88e6e3d1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
-            "id": "c54b7c9ae823e698",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unix/shared memory.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "shared memory"
-            }
-          },
-          {
-            "id": "1c2c6d252f2131e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Весь цикл работы go кода в системе.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Весь цикл работы go кода в системе"
-            }
-          },
-          {
-            "id": "95d9db778ef17a9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Собеседования вопросы/Магнит задачи.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Магнит задачи"
-            }
-          },
-          {
-            "id": "90a17ca236e84bd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/Типы запросов DML, DQL, TCL, DDL, DCL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Типы запросов DML, DQL, TCL, DDL, DCL"
-            }
-          },
-          {
-            "id": "b79c6f4299dcbc6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GO/Panice and Recover.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Panice and Recover"
-            }
-          },
-          {
-            "id": "6d19140f1ee19174",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algs/Обзорно по паттернам на повторение.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Обзорно по паттернам на повторение"
-            }
-          },
-          {
-            "id": "a235c2f71c782c39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algs/Throttling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Throttling"
-            }
-          },
-          {
-            "id": "42e944a280a3a394",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/Большая таблицы/Вставка записей в большую таблицу.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Вставка записей в большую таблицу"
-            }
-          },
-          {
-            "id": "b6acb51fc0e8f2a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Практическое/Кейс работы с СХД/Необычные кейсы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Необычные кейсы"
+              "title": "Create table guide"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -260,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "share for",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -377,51 +199,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6acb51fc0e8f2a4",
+  "active": "2d84bf6b798ec27f",
   "lastOpenFiles": [
-    "Практическое/Кейс работы с СХД/Введение.md",
-    "Ключевые слова для повторения/Linux.md",
-    "SQL/Констрейнты.md",
-    "SQL/WHERE.md",
-    "SQL/MVCC.md",
-    "SQL/JOINS между SHARDS.md",
-    "SQL/B-tree index.md",
-    "SQL/Bitmap Heap Scan.md",
-    "SQL/Типы запросов DML, DQL, TCL, DDL, DCL.md",
-    "SQL/Примеры запросов.md",
-    "SQL/Порядок выполнения запросов в SQL.png",
-    "SQL/Необычные запросы.md",
-    "SQL/Миграции.md",
-    "SQL/Куча в SQL.md",
-    "SQL/ИЗОЛЯЦИЯ.md",
-    "SQL/ДЖОИНЫ.md",
+    "Собеседования вопросы/Флант.md",
+    "SQL/Create table guide.md",
+    "Psycho/Собеседования вопросы/WB/вопросы 28.06.md",
+    "Psycho/Собеседования вопросы/WB/Без названия.md",
+    "Algs/LRU.md",
+    "Psycho/задача озона.md",
+    "Psycho/Без названия.md",
+    "Algs/TTL.md",
+    "SQL/Большая таблицы/Запись и вставка с помощью csv.md",
+    "Psycho/структура дашборда.md",
+    "Psycho/профилирование io.md",
+    "SQL/Большая таблицы/Развернуто copy from, copy to.md",
+    "Algs/Объяснение плюс запоминание, теория/Конфигуратор.md",
+    "Psycho/SQL/Большая таблицы/Без названия.md",
+    "Psycho/Собеседования вопросы/Опциональный паттерн.md",
+    "Собеседования вопросы/Опциональный паттерн.md",
+    "GO/Interface/iface eface.md",
+    "GO/Interface/Интерфейс под капотом.md",
+    "GO/Interface/Стандартные интерфейсы в го.md",
+    "GO/Многопоточка/g0.md",
     "SQL/Вешай индекс если много записей.md",
-    "SQL/Блокировки.md",
-    "SQL/Индексы.md",
-    "SQL/Неравенство в индексе.md",
-    "SQL/Нормализация, денормализация.md",
-    "SQL/Работа с датами.md",
-    "SQL/Стратегии джоина.md",
-    "SQL/SQL JOIN.md",
-    "BD/Postgres/Блокировки в Postgres.md",
-    "BD/Postgres/Журнал.md",
-    "BD/Postgres/Куча.md",
-    "Сети/http.jpg",
-    "Задачи собеседование",
-    "SQL/Большая таблицы",
-    "Дейлики гайд.png",
-    "Карточки/Golang",
-    "Карточки/Сети",
-    "Карточки/Алгоритмы",
-    "Карточки/PostgreSQL",
-    "Карточки",
-    "Сети/http body header.jpg",
-    "Скриншот 31-03-2025 175010.jpg",
-    "Pasted image 20250226113018.png",
-    "Pasted image 20250331175215.png",
+    "Docker/Docker compose.jpg",
+    "Docker/Docker Compose.md",
+    "Docker/DockerFile команды.md",
+    "Docker/Контейнеры vs User Space.md",
+    "k8s/KubeCTL команды.md",
+    "Kafka/Одна партиция Один Консьюмер.md",
+    "Сети/Протоколы.gif",
     "Pasted image 20250331175221.png",
     "Pasted image 20250331175314.png",
-    "Pasted image 20250331175319.png",
+    "Pasted image 20250331175215.png",
+    "Pasted image 20250226113018.png",
+    "Скриншот 31-03-2025 175010.jpg",
+    "Psycho/Без названия",
+    "Сети/http body header.jpg",
+    "GO/Кража горутин.png",
+    "Unix/Базовый траблшутинг в лине 3.jpg",
+    "SQL/WHERE",
+    "Psycho/Собеседования вопросы/Вк",
+    "Psycho/Собеседования вопросы/Авито",
+    "Psycho/Собеседования вопросы/WB",
+    "Psycho/Собеседования вопросы",
+    "Psycho/Карточки/Сети",
+    "Psycho/Карточки/Алгоритмы",
+    "Psycho/Карточки/PostgreSQL",
+    "Psycho/Карточки/Golang",
     "workspace-main/🏛️ Database/Создание запросов, базовый материал/Курс SQL-Academy/Модуль 2 - Основы выборки I.canvas",
     "workspace-main/🏛️ Database/System Design - шардирование.canvas",
     "workspace-main/🏛️ Database/Нормальные формы в базе данных.canvas",
@@ -431,9 +256,6 @@
     "workspace-main/🌐 Web, protocols/1. HTTP + HTTPS/02. HTTP-методы.canvas",
     "workspace-main/💯 Coding/Python/Курс для начинающих/03. Типы данных.canvas",
     "workspace-main/💯 Coding/Python/Курс для начинающих/02. Условный оператор.canvas",
-    "workspace-main/💯 Coding/Golang/Map (отображения, карта).canvas",
-    "workspace-main/🧩 QA/Материал на самостоятельное изучение/Гайд по тестированию API.pdf",
-    "workspace-main/🧩 QA/Шаблон идеального тест-кейса.xlsx",
-    "workspace-main/🧩 QA/Материал на самостоятельное изучение"
+    "workspace-main/💯 Coding/Golang/Map (отображения, карта).canvas"
   ]
 }

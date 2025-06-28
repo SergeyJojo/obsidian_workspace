@@ -1,0 +1,338 @@
+{
+  "main": {
+    "id": "2eda33dfd77626ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d06f3bb8ecd2c45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cda8d1cd980f334",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сети/head of line blocking 1.1 и 2 http.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "head of line blocking 1.1 и 2 http"
+            }
+          },
+          {
+            "id": "0cfbab59f1dbedfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Флант.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Флант"
+            }
+          },
+          {
+            "id": "c8a2cf8ea26f447d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "wms"
+            }
+          },
+          {
+            "id": "2493b35b9db4a953",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Автоматизация складской логики.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Автоматизация складской логики"
+            }
+          },
+          {
+            "id": "ff9ce6438d9ad179",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Автоматизация складской логики.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Автоматизация складской логики"
+            }
+          },
+          {
+            "id": "7365b92c0f05cf5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Автоматизация складской логики.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Автоматизация складской логики"
+            }
+          },
+          {
+            "id": "2f0e91947bcb5db2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Автоматизация складской логики.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Автоматизация складской логики"
+            }
+          },
+          {
+            "id": "3958b2276d2c90f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "работа с товаром.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "работа с товаром"
+            }
+          },
+          {
+            "id": "3e75862dc19210f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "профилирование io.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "профилирование io"
+            }
+          },
+          {
+            "id": "57fc921e1c5d038c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algs/Rate limiter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rate limiter"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eafdd919e25db9fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "634053a25d857adc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f99e4125c07c8f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "a17fb474d34d58a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "ce560e1b4afdf1b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a61161649ef42632",
+    "type": "split",
+    "children": [
+      {
+        "id": "efb7d9b78ea0430d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6bebaacc93fd817",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SQL/Работа с датами.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Работа с датами"
+            }
+          },
+          {
+            "id": "4a97708e44846c09",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SQL/Работа с датами.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Работа с датами"
+            }
+          },
+          {
+            "id": "059bf25d60547a0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "969bb68a52d33240",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SQL/Работа с датами.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Работа с датами"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "57fc921e1c5d038c",
+  "lastOpenFiles": [
+    "Собеседования вопросы/WB/вопросы 28.06.md",
+    "SQL/Большая таблицы/Вставка записей в большую таблицу.md",
+    "SQL/Большая таблицы/Вставка Батчами через го код (бомба).md",
+    "Флант.md",
+    "Задача на урлы.md",
+    "куб вопросы прикольные.md",
+    "задача озона.md",
+    "работа с товаром.md",
+    "структура дашборда.md",
+    "профилирование io.md",
+    "оптимизации размещения и хранения sku.md",
+    "Автоматизация складской логики.md",
+    "Развитие собственной важности.md",
+    "Чего я хочу.md",
+    "ребалансировка товаров на складе.md",
+    "temp product owner.md",
+    "wms.md",
+    "RoadMap GO 2025.md",
+    "Якори себя.md",
+    "Я главный герой.md",
+    "Эмоциональная независимость.md",
+    "SQL/Большая таблицы/Без названия.md",
+    "SQL/Большая таблицы/Го код вставка батчами.md",
+    "SQL/Практика/Работа с типами.md",
+    "SQL/Практика/Типичные запросы.md",
+    "SQL/Практика/Filter, CTE, (over) partition by.md",
+    "Без названия",
+    "Собеседования вопросы/Вк",
+    "Собеседования вопросы/Авито",
+    "Собеседования вопросы/WB",
+    "Собеседования вопросы",
+    "Карточки/Сети",
+    "Карточки/Алгоритмы",
+    "Карточки/PostgreSQL",
+    "Карточки/Golang",
+    "Карточки",
+    "GO/Кража горутин.png"
+  ]
+}

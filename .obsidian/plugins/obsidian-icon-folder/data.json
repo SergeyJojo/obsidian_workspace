@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAward",
+      "LiAirVent",
+      "LiAArrowUp",
       "LiArrowDown01",
-      "LiActivity",
-      "LiActivitySquare",
-      "LiAtom",
-      "LiAlbum"
+      "LiActivity"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -124,5 +124,21 @@
   "SQL/B-tree index.md": {
     "iconName": "LiArrowDown01",
     "iconColor": "#ff0000"
+  },
+  "Повторение коротко.md": {
+    "iconName": "LiAArrowUp",
+    "iconColor": "#00e1ff"
+  },
+  "Ключевые слова для повторения": {
+    "iconName": "LiAirVent",
+    "iconColor": "#ff0000"
+  },
+  "Пример проекта как в бигтех.md": {
+    "iconName": "LiActivitySquare",
+    "iconColor": "#7300ff"
+  },
+  "Проект от DeepSeek.md": {
+    "iconName": "LiAward",
+    "iconColor": "#8000ff"
   }
 }
