@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiArrowUp10",
       "LiAward",
       "LiAirVent",
       "LiAArrowUp",
-      "LiArrowDown01",
-      "LiActivity"
+      "LiArrowDown01"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,17 +42,9 @@
     "iconName": "LiAirVent",
     "iconColor": "#16d03b"
   },
-  "SQL": {
-    "iconName": "LiAlignCenter",
-    "iconColor": "#c3db0a"
-  },
   "System design": {
     "iconName": "LiAlbum",
     "iconColor": "#1b8381"
-  },
-  "GO": {
-    "iconName": "LiAsteriskSquare",
-    "iconColor": "#4351b6"
   },
   "BD": {
     "iconName": "LiAtom",
@@ -66,64 +58,9 @@
     "iconName": "LiAlignCenter",
     "iconColor": "#f24040"
   },
-  "GO/maps": {
-    "iconName": "LiAudioLines",
-    "iconColor": "#a51ab7"
-  },
-  "GO/Slice": {
-    "iconName": "LiBackpack",
-    "iconColor": "#dc5309"
-  },
-  "GO/Многопоточка": {
-    "iconName": "LiArrowUp10",
-    "iconColor": "#2ac02d"
-  },
-  "GO/Многопоточка/errGroup.md": {
-    "iconName": "LiAlignHorizontalDistributeCenter",
-    "iconColor": "#f00f0f"
-  },
-  "SQL/Индексы.md": "LiAlarmSmoke",
-  "SQL/ИЗОЛЯЦИЯ.md": {
-    "iconName": "LiActivity",
-    "iconColor": "#ff0000"
-  },
-  "SQL/АГРЕГИРУЮЩИЕ ФУНКЦИИ.md": "LiAlignHorizontalSpaceAround",
-  "SQL/MVCC.md": "LiAlignLeft",
-  "GO/Аллокация памяти в го.md": {
-    "iconName": "LiArrowBigUp",
-    "iconColor": "#1da003"
-  },
-  "SQL/Работа с датами.md": {
-    "iconName": "LiArrowRightLeft",
-    "iconColor": "#01cb29"
-  },
-  "SQL/SQL JOIN.md": {
-    "iconName": "LiAlignHorizontalDistributeCenter",
-    "iconColor": "#057621"
-  },
-  "Сети": {
-    "iconName": "LiAntenna",
-    "iconColor": "#f20707"
-  },
-  "Собеседования вопросы": {
-    "iconName": "LiAccessibility",
-    "iconColor": "#ff0000"
-  },
-  "Algs": {
-    "iconName": "LiAlbum",
-    "iconColor": "#0bfed5"
-  },
   "Unix": {
     "iconName": "LiAtom",
     "iconColor": "#ffd500"
-  },
-  "SQL/Блокировки.md": {
-    "iconName": "LiActivitySquare",
-    "iconColor": "#f50000"
-  },
-  "SQL/B-tree index.md": {
-    "iconName": "LiArrowDown01",
-    "iconColor": "#ff0000"
   },
   "Повторение коротко.md": {
     "iconName": "LiAArrowUp",
@@ -140,5 +77,72 @@
   "Проект от DeepSeek.md": {
     "iconName": "LiAward",
     "iconColor": "#8000ff"
+  },
+  "1LeetCode": {
+    "iconName": "LiArrowUp10",
+    "iconColor": "#ff0000"
+  },
+  "2Собеседования вопросы": {
+    "iconName": "LiAccessibility",
+    "iconColor": "#ff0000"
+  },
+  "3. GO": {
+    "iconName": "LiAsteriskSquare",
+    "iconColor": "#4351b6"
+  },
+  "3. GO/Slice": {
+    "iconName": "LiBackpack",
+    "iconColor": "#dc5309"
+  },
+  "3. GO/maps": {
+    "iconName": "LiAudioLines",
+    "iconColor": "#a51ab7"
+  },
+  "3. GO/Аллокация памяти в го.md": {
+    "iconName": "LiArrowBigUp",
+    "iconColor": "#1da003"
+  },
+  "3. GO/Многопоточка": {
+    "iconName": "LiArrowUp10",
+    "iconColor": "#2ac02d"
+  },
+  "3. GO/Многопоточка/errGroup.md": {
+    "iconName": "LiAlignHorizontalDistributeCenter",
+    "iconColor": "#f00f0f"
+  },
+  "4. SQL": {
+    "iconName": "LiAlignCenter",
+    "iconColor": "#c3db0a"
+  },
+  "4. SQL/B-tree index.md": {
+    "iconName": "LiArrowDown01",
+    "iconColor": "#ff0000"
+  },
+  "4. SQL/MVCC.md": "LiAlignLeft",
+  "4. SQL/SQL JOIN.md": {
+    "iconName": "LiAlignHorizontalDistributeCenter",
+    "iconColor": "#057621"
+  },
+  "4. SQL/АГРЕГИРУЮЩИЕ ФУНКЦИИ.md": "LiAlignHorizontalSpaceAround",
+  "4. SQL/ИЗОЛЯЦИЯ.md": {
+    "iconName": "LiActivity",
+    "iconColor": "#ff0000"
+  },
+  "4. SQL/Индексы.md": "LiAlarmSmoke",
+  "4. SQL/Блокировки.md": {
+    "iconName": "LiActivitySquare",
+    "iconColor": "#f50000"
+  },
+  "4. SQL/Работа с датами.md": {
+    "iconName": "LiArrowRightLeft",
+    "iconColor": "#01cb29"
+  },
+  "5. Algs": {
+    "iconName": "LiAlbum",
+    "iconColor": "#0bfed5"
+  },
+  "6. Сети": {
+    "iconName": "LiAntenna",
+    "iconColor": "#f20707"
   }
 }

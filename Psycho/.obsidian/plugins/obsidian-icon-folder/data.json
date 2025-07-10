@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAccessibility",
       "LiSquirrel"
     ],
     "recentlyUsedIconsSize": 5,
@@ -33,5 +34,9 @@
   "GO/Многопоточка/errGroup.md": {
     "iconName": "LiSquirrel",
     "iconColor": "#ff00ea"
+  },
+  "работа с товаром.md": {
+    "iconName": "LiAccessibility",
+    "iconColor": "#8c00ff"
   }
 }
