@@ -34,10 +34,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Kafka": {
-    "iconName": "LiArrowLeftRight",
-    "iconColor": "#145fd7"
-  },
   "Redis": {
     "iconName": "LiAirVent",
     "iconColor": "#16d03b"
@@ -144,5 +140,17 @@
   "6. Сети": {
     "iconName": "LiAntenna",
     "iconColor": "#f20707"
+  },
+  "7. k8s/Deployment под капотом.md": {
+    "iconName": "LiAArrowUp",
+    "iconColor": "#26d902"
+  },
+  "3. GO/defer повторение.md": {
+    "iconName": "LiAArrowUp",
+    "iconColor": "#27ac02"
+  },
+  "8. Kafka": {
+    "iconName": "LiArrowLeftRight",
+    "iconColor": "#145fd7"
   }
 }

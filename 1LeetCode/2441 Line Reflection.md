@@ -159,17 +159,16 @@ func isReflected(points [][]int) bool {
 
 		mirrorX := sum - x
 		if !pointSet[[2]int{mirrorX, y}] {
-			allSymmetric = false
-			break
+			return false
 		}
 	}
 
 	// Для нечетного количества должна быть ровно одна центральная точка
 	if len(points)%2 == 1 {
-		return allSymmetric && centralPointExists
+		return centralPointExists
 	}
-	return allSymmetric
-}
+	return true
+
 
 func main() {
 	// Тест кейсы

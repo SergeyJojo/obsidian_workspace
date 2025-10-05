@@ -134,16 +134,16 @@ PostgreSQL поддерживает несколько уровней изоля
 
 Вот **основные типы табличных блокировок**, от самой "лёгкой" до самой "тяжёлой":
 
-|Тип блокировки|Описание|
-|---|---|
-|`ACCESS SHARE`|Когда читаем таблицу (`SELECT`). Совместима со всеми, кроме `ACCESS EXCLUSIVE`|
-|`ROW SHARE`|При `SELECT ... FOR UPDATE` или `FOR SHARE` — лёгкий DML|
-|`ROW EXCLUSIVE`|При `INSERT`, `UPDATE`, `DELETE`, `SELECT FOR UPDATE`|
-|`SHARE UPDATE EXCLUSIVE`|Для операций, не меняющих структуру, но блокирующих некоторые DDL|
-|`SHARE`|Разрешает параллельное чтение, запрещает DML|
-|`SHARE ROW EXCLUSIVE`|Редкий гость: смесь `SHARE` и `ROW EXCLUSIVE`|
-|`EXCLUSIVE`|Почти как `ACCESS EXCLUSIVE`, но разрешает читать|
-|`ACCESS EXCLUSIVE`|Самая строгая: всё блочит. Например, `ALTER TABLE`, `DROP TABLE`, `TRUNCATE`|
+| Тип блокировки           | Описание                                                                       |
+| ------------------------ | ------------------------------------------------------------------------------ |
+| `ACCESS SHARE`           | Когда читаем таблицу (`SELECT`). Совместима со всеми, кроме `ACCESS EXCLUSIVE` |
+| `ROW SHARE`              | При `SELECT ... FOR UPDATE` или `FOR SHARE` — лёгкий DML                       |
+| `ROW EXCLUSIVE`          | При `INSERT`, `UPDATE`, `DELETE`, `SELECT FOR UPDATE`                          |
+| `SHARE UPDATE EXCLUSIVE` | Для операций, не меняющих структуру, но блокирующих некоторые DDL              |
+| `SHARE`                  | Разрешает параллельное чтение, запрещает DML                                   |
+| `SHARE ROW EXCLUSIVE`    | Редкий гость: смесь `SHARE` и `ROW EXCLUSIVE`                                  |
+| `EXCLUSIVE`              | Почти как `ACCESS EXCLUSIVE`, но разрешает читать                              |
+| `ACCESS EXCLUSIVE`       | Самая строгая: всё блочит. Например, `ALTER TABLE`, `DROP TABLE`, `TRUNCATE`   |
 
 ---
 

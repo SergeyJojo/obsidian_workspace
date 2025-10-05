@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlarmClockMinus",
+      "LiALargeSmall",
       "LiAccessibility",
       "LiSquirrel"
     ],
@@ -38,5 +40,17 @@
   "работа с товаром.md": {
     "iconName": "LiAccessibility",
     "iconColor": "#8c00ff"
+  },
+  "Задача на урлы.md": {
+    "iconName": "LiALargeSmall",
+    "iconColor": "#006fd6"
+  },
+  "рефакторинг кода озон.md": {
+    "iconName": "LiAlarmClockMinus",
+    "iconColor": "#ff0000"
+  },
+  "Урлы задача озон.md": {
+    "iconName": "LiALargeSmall",
+    "iconColor": "#f50505"
   }
 }

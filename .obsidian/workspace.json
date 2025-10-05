@@ -4,137 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "021ae85008fe3853",
+        "id": "e4d5afc052484104",
         "type": "tabs",
         "children": [
           {
-            "id": "c332aff87356a0d1",
+            "id": "8e934ea607b6d791",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1LeetCode/78 Subsets.md",
+                "file": "1LeetCode/Места в кинотеатре.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "78 Subsets"
+              "title": "Места в кинотеатре"
             }
           },
           {
-            "id": "f35b8d6c0e3ade83",
+            "id": "23ffdf50162f150e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1LeetCode/Печать конечных узлов рубрикатора.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Печать конечных узлов рубрикатора"
-            }
-          },
-          {
-            "id": "e1d6f8044f1be79a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1LeetCode/2 Add Two Numbers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2 Add Two Numbers"
-            }
-          },
-          {
-            "id": "406fa79fd6ff264a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1LeetCode/200 Number of islands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "200 Number of islands"
-            }
-          },
-          {
-            "id": "4cc4121e8ccc54ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1LeetCode/11 Contain Most Water.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11 Contain Most Water"
-            }
-          },
-          {
-            "id": "5f2e49561af70b24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1LeetCode/21 Merge Two Sorted Lists.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "21 Merge Two Sorted Lists"
-            }
-          },
-          {
-            "id": "29bc5d449d9c11bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1LeetCode/15 threeSum.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "15 threeSum"
-            }
-          },
-          {
-            "id": "ec8f8246e983ece6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/git rebase.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "git rebase"
-            }
-          },
-          {
-            "id": "7baa00942161fb78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Пример проекта как в бигтех.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Пример проекта как в бигтех"
+              "title": "Новая вкладка"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 346.5
   },
   "right": {
     "id": "5070d4307fc063df",
@@ -304,6 +201,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -316,62 +214,63 @@
       "obsidian-youglish-plugin:Youglish Plugin": false
     }
   },
-  "active": "ec8f8246e983ece6",
+  "active": "6a039a254aa753d4",
   "lastOpenFiles": [
-    "Git/Продвинутые команды.md",
-    "Git/git rebase.md",
-    "Git/Git команды.md",
-    "Git/Команды BASE.md",
-    "Git/IMG_0134.jpg",
-    "k8s/Команды.md",
+    "1LeetCode/leetcode 283 Move Zeroes.md",
     "1LeetCode/2441 Line Reflection.md",
+    "1LeetCode/Места в кинотеатре.md",
     "1LeetCode/Печать конечных узлов рубрикатора.md",
-    "1LeetCode/build command.md",
     "1LeetCode/Close K numbers.md",
-    "1LeetCode/Summary range.md",
-    "1LeetCode/zip func golang.md",
+    "1LeetCode/build command.md",
+    "2Собеседования вопросы/Задача WB на промежутки.md",
+    "2Собеседования вопросы/ДомКлик.md",
+    "2Собеседования вопросы/WB/Вопросы 03,04,25.md",
+    "2Собеседования вопросы/WB.md",
+    "2Собеседования вопросы/VK задачки 2.md",
+    "2Собеседования вопросы/Систем дизайн островок.md",
+    "2Собеседования вопросы/Исправление бага и обсуждение простого сервиса.md",
     "1LeetCode/1 twoSum.md",
-    "1LeetCode/2 Add Two Numbers.md",
-    "1LeetCode/3 longest Substring without Repeating.md",
-    "1LeetCode/8 Climbing Stairs (LeetCode №70).md",
-    "1LeetCode/9 Palindrome Number.md",
-    "1LeetCode/11 Contain Most Water.md",
-    "1LeetCode/12 Integer to Roman.md",
-    "1LeetCode/14 Longest Common Prefix.md",
-    "1LeetCode/15 threeSum.md",
-    "1LeetCode/20 Valid Parentheses.md",
-    "1LeetCode/17 Letter Combinations of a Phone Number.md",
-    "1LeetCode/21 Merge Two Sorted Lists.md",
-    "1LeetCode/22 Generate Parentheses (LeetCode №22).md",
-    "1LeetCode/40 Combination Sum II.md",
+    "1LeetCode/Сравнение версий.md",
+    "Psycho/Урлы задача озон.md",
+    "Psycho/Без названия.md",
+    "5. Algs/Throttling.md",
+    "5. Algs/LRU cache.md",
+    "5. Algs/list.md",
+    "5. Algs/in-memory c шардированием.md",
+    "5. Algs/Heap.md",
+    "5. Algs/TTL with Unix time stamp.md",
+    "5. Algs/WorkerPull and Fan-out.md",
+    "5. Algs/Rate limiter.md",
+    "5. Algs/LRU.md",
+    "php/laravel",
+    "4. SQL/Порядок выполнения запросов в SQL.png",
+    "Psycho/Pasted image 20250904230705.png",
+    "Psycho/вопросы на вспомнить",
+    "Psycho/Без названия",
+    "Psycho/рабочие задачки",
+    "Psycho/11714-1725565674.webp",
+    "Psycho/11715-1725565675.webp",
+    "Psycho/12249-1728567011.webp",
+    "Psycho/12248-1728567011.webp",
+    "Psycho/покер",
+    "Psycho/Pasted image 20250829160635.png",
+    "Psycho/SRE",
+    "Psycho/Pasted image 20250824185627.png",
+    "Psycho/Pasted image 20250824185444.png",
+    "Git/IMG_0134.jpg",
+    "Psycho/диета",
+    "workspace-main/⚙️ DevOps/Docker/Введение в контейнеры.canvas",
+    "testing (QA)",
+    "workspace-main/🧩 QA/Книги/Артем Русов - Тестировщик с нуля.canvas",
+    "workspace-main/🧩 QA/Материал на самостоятельное изучение/Гайд по тестированию API.pdf",
+    "7. k8s/istio mesh",
     "workspace-main/💯 Coding/Python/Курс для начинающих/13. Списки.canvas",
-    "php",
     "workspace-main/💯 Coding/Python/Курс для начинающих/06. Code-review.canvas",
     "workspace-main/💯 Coding/Python/Курс для начинающих/03. Типы данных.canvas",
     "workspace-main/💯 Coding/Python/Курс для начинающих/02. Условный оператор.canvas",
     "workspace-main/💯 Coding/Python/Курс для начинающих/01. Ввод-вывод данных.canvas",
-    "Pasted image 20250704130307.png",
-    "1LeetCode",
-    "Горутины и потоки.png",
     "workspace-main/💯 Coding/Golang/Интерфейсы.canvas",
     "workspace-main/🌐 Web, protocols/1. HTTP + HTTPS/02. HTTP-методы.canvas",
-    "workspace-main/🌐 Web, protocols/1. HTTP + HTTPS/01. HTTP + HTTPS.canvas",
-    "workspace-main/⚙️ DevOps/Docker/Введение в контейнеры.canvas",
-    "workspace-main/⚡ Git/Git.canvas",
-    "карточки тест/английский",
-    "Блокировки PostGreSql.png",
-    "карточки тест",
-    "Скриншот 31-03-2025 175010.jpg",
-    "Docker/Docker compose.jpg",
-    "6. Сети/Протоколы.gif",
-    "Pasted image 20250331175221.png",
-    "Pasted image 20250331175314.png",
-    "Pasted image 20250331175215.png",
-    "Psycho/Без названия",
-    "4. SQL/WHERE",
-    "Psycho/Собеседования вопросы/Вк",
-    "Psycho/Собеседования вопросы/Авито",
-    "Psycho/Собеседования вопросы/WB",
-    "Psycho/Собеседования вопросы"
+    "workspace-main/🌐 Web, protocols/1. HTTP + HTTPS/01. HTTP + HTTPS.canvas"
   ]
 }
