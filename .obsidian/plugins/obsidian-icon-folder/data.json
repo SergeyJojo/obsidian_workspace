@@ -152,5 +152,9 @@
   "8. Kafka": {
     "iconName": "LiArrowLeftRight",
     "iconColor": "#145fd7"
+  },
+  "php/string функции.md": {
+    "iconName": "LiAirVent",
+    "iconColor": "#dc0909"
   }
 }
