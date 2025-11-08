@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "php/COW.md",
+                "file": "0 php/версии PHP/php 8 новое.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COW"
+              "title": "php 8 новое"
+            }
+          },
+          {
+            "id": "0585f46449c5a3e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 php/laravel/DI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DI"
             }
           },
           {
@@ -31,7 +45,8 @@
               "title": "Новая вкладка"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 246.5
   },
   "right": {
     "id": "5070d4307fc063df",
@@ -214,63 +229,63 @@
       "obsidian-youglish-plugin:Youglish Plugin": false
     }
   },
-  "active": "8e934ea607b6d791",
+  "active": "6a039a254aa753d4",
   "lastOpenFiles": [
-    "php/callable.md",
-    "php/Type hinting.md",
-    "php/private protected public.md",
-    "php/string функции.md",
-    "php/php 8 новое.md",
-    "php/php 7.md",
-    "php/GC collector.md",
-    "php/COW.md",
-    "php/типы данных.md",
-    "php/algos/summary range.md",
-    "php/Список встроенных функций.md",
-    "php/cheat sheet по всему пхп.md",
-    "php/Composer команды и автозагрузка.md",
-    "php/функции работы с коллекциями.md",
-    "php/Как устроен интерпритатор.md",
-    "php/Циклы и условные операторы.md",
-    "php/синтаксис cheat sheet.md",
-    "php/Ассоциативный массив.md",
-    "php/algos/места в кинотеатре.md",
-    "php/algos/two sum.md",
-    "1LeetCode/Summary range.md",
-    "1LeetCode/leetcode 283 Move Zeroes.md",
-    "1LeetCode/Места в кинотеатре.md",
-    "php/algos",
-    "php/интерфейсы, абстрактные классы.md",
-    "5. Algs/Throttling.md",
-    "5. Algs/Rate limiter.md",
+    "0 php/language/синтаксис cheat sheet.md",
+    "0 php/laravel/DI.md",
+    "0 php/language/Variadics.md",
+    "0 php/language/Type hinting.md",
+    "0 php/language/this подводные камни.md",
+    "0 php/language/string функции.md",
+    "0 php/language/fibers.md",
+    "0 php/language/private protected public.md",
+    "0 php/language/exceptions_and_errors.md",
+    "0 php/language/callable.md",
+    "0 php/language/array callable.md",
+    "0 php/language/Циклы и условные операторы.md",
+    "0 php/language/функции работы с коллекциями.md",
+    "0 php/language/типы данных.md",
+    "0 php/language/Список встроенных функций.md",
+    "0 php/language/Коллекции методы.md",
+    "0 php/language/Ассоциативный массив.md",
+    "0 php/language/static и обычное замыкание.md",
+    "0 php/language/self static php.md",
+    "0 php/language/trait настройки.md",
+    "0 php/oop/Магические методы.md",
+    "workspace-main/🌐 Web, protocols/1. HTTP + HTTPS/03. Коды состояний.canvas",
+    "workspace-main/🌐 Web, protocols/1. HTTP + HTTPS/01. HTTP + HTTPS.canvas",
+    "workspace-main/🌐 Web, protocols/1. HTTP + HTTPS/📚 Полезные ссылки на самостоятельное изучение.md",
+    "0 php/composer и экосистема/стандарты PSR.md",
+    "0 php/language/DI контейнер.md",
+    "0 php/security/xss csrf.md",
+    "0 php/Tricks/ловушки.md",
+    "0 php/perfomance",
+    "0 php/Tricks",
+    "0 php/Без названия.canvas",
+    "0 php/security",
+    "0 php/BD",
+    "0 php/версии PHP",
+    "0 php/composer и экосистема",
+    "0 php/oop",
+    "0 php/language",
+    "0 php/internals",
+    "0 php/internals",
     "Блокировки PostGreSql.png",
     "Дейлики гайд.png",
     "Горутины и потоки.png",
     "Скриншот 31-03-2025 175010.jpg",
-    "php/laravel",
     "4. SQL/Порядок выполнения запросов в SQL.png",
     "Psycho/Pasted image 20250904230705.png",
-    "Psycho/вопросы на вспомнить",
-    "Psycho/Без названия",
-    "Psycho/рабочие задачки",
     "Psycho/11714-1725565674.webp",
     "Psycho/11715-1725565675.webp",
     "Psycho/12249-1728567011.webp",
     "Psycho/12248-1728567011.webp",
-    "Psycho/покер",
-    "Psycho/SRE",
-    "Psycho/диета",
     "workspace-main/⚙️ DevOps/Docker/Введение в контейнеры.canvas",
-    "testing (QA)",
     "workspace-main/🧩 QA/Книги/Артем Русов - Тестировщик с нуля.canvas",
-    "workspace-main/🧩 QA/Материал на самостоятельное изучение/Гайд по тестированию API.pdf",
     "workspace-main/💯 Coding/Python/Курс для начинающих/13. Списки.canvas",
     "workspace-main/💯 Coding/Python/Курс для начинающих/06. Code-review.canvas",
     "workspace-main/💯 Coding/Python/Курс для начинающих/03. Типы данных.canvas",
     "workspace-main/💯 Coding/Python/Курс для начинающих/02. Условный оператор.canvas",
-    "workspace-main/💯 Coding/Python/Курс для начинающих/01. Ввод-вывод данных.canvas",
-    "workspace-main/💯 Coding/Golang/Интерфейсы.canvas",
-    "workspace-main/🌐 Web, protocols/1. HTTP + HTTPS/02. HTTP-методы.canvas",
-    "workspace-main/🌐 Web, protocols/1. HTTP + HTTPS/01. HTTP + HTTPS.canvas"
+    "workspace-main/💯 Coding/Python/Курс для начинающих/01. Ввод-вывод данных.canvas"
   ]
 }

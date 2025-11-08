@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiArrowUpFromDot",
       "LiArrowUp10",
       "LiAward",
       "LiAirVent",
-      "LiAArrowUp",
-      "LiArrowDown01"
+      "LiAArrowUp"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -153,7 +153,11 @@
     "iconName": "LiArrowLeftRight",
     "iconColor": "#145fd7"
   },
-  "php/string функции.md": {
+  "0 php": {
+    "iconName": "LiArrowUpFromDot",
+    "iconColor": "#6c00f0"
+  },
+  "0 php/language/string функции.md": {
     "iconName": "LiAirVent",
     "iconColor": "#dc0909"
   }
