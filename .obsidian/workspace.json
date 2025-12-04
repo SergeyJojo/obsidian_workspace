@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 php/битрикс24/Ядро D7 vs старый процедурный стиль.md",
+                "file": "0 php/laravel/Commends.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ядро D7 vs старый процедурный стиль"
+              "title": "Commends"
             }
           }
         ],
@@ -235,6 +235,10 @@
   },
   "active": "23ffdf50162f150e",
   "lastOpenFiles": [
+    "0 php/composer и экосистема/Composer команды и автозагрузка.md",
+    "0 php/composer и экосистема/cheat sheet по всему пхп.md",
+    "0 php/битрикс24/терминология.md",
+    "0 php/битрикс24/Ядро D7 vs старый процедурный стиль.md",
     "0 php/битрикс24/CRM.md",
     "0 php/redis под все.md",
     "0 php/gearman.md",
@@ -244,7 +248,6 @@
     "0 php/битрикс24/структура папки.md",
     "0 php/битрикс24/Работа с таблицами.md",
     "0 php/битрикс24/устройство.md",
-    "0 php/битрикс24/Ядро D7 vs старый процедурный стиль.md",
     "0 php/битрикс24/общая структура запросов.md",
     "0 php/версии PHP/php 8 новое.md",
     "0 php/Без названия",
@@ -259,9 +262,6 @@
     "0 php/internals/opcode_and_zend_engine.md",
     "0 php/internals/OPcache.md",
     "0 php/language/PDO.md",
-    "0 php/language/magic методы.md",
-    "0 php/language/fibers.md",
-    "0 php/language/callable.md",
     "0 php/битрикс24",
     "0 php/html css",
     "window 10",
